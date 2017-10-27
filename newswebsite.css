@@ -1,0 +1,27 @@
+body{background-color:black;} table{color:white;}
+#one{background-color:black; color:white; position:fixed; height:80px; width:1595px;}
+
+#two{ width:280px; height:500px;  color:black; background-image: url(weather.jpg); text-align:center; position:relative; bottom:20px; }
+#three{ width:280px; height:500px; background-color:black; color:white; position:absolute; left:350px; bottom:-2px;
+            background-image: url(accident.jpg); background-repeat:no-repeat; background-size:cover;text-align:center;}
+#four{ width:280px; height:500px; background-color:black; color:white; position:absolute; left:700px; bottom:-2px;
+        background-image: url(crime.jpg);background-size:cover;text-align:center;}
+#five{ width:280px; height:500px; background-color:black; color:white; position:absolute; left:1050px; bottom:-2px;text-align:center;
+         background-image: url(sports.jpg); background-repeat:no-repeat; background-size:cover;}
+		 
+		 #abp{ position:relative; left: 1200px; top:90px; background-color:black; color:white;}
+		 #ndtv{ position:relative; left: 1200px;top:90px; background-color:black; color:white;}
+		 #cnn{ position:relative; left: 1200px;top:90px; background-color:black; color:white;}
+		 #aajtak{ position:relative; left: 1200px;top:90px; background-color:black; color:white;}
+		 
+		 
+#six{ width:1366px; height: 200px; background-image: url(abp.jpg); background-repeat:no-repeat; background-size:200px 200px; background-position:absolute; left:200px;}
+#seven{ width:1366px; height: 200px; background-image: url(ndtv.png); background-repeat:no-repeat; background-size:200px 200px; background-position:absolute; left:200px;}
+#eight{ width:1366px; height: 200px; background-image: url(cnn.png); background-repeat:no-repeat; background-size:200px 200px; background-position:absolute; left:200px;}
+#nine{ width:1366px; height: 200px; background-image: url(aajtak.jpg); background-repeat:no-repeat; background-size:200px 200px; background-position:absolute; left:200px;}
+
+#box{width:1366px; height:150px; background-color:blue; }
+#para1{color:black;}
+#para2{color:black;}
+#para3{color:black;}
+#para4{color:black;}
